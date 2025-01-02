@@ -29,5 +29,5 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/codeupschool-exercises.git
+      git clone https://github.com/WeAreCodeupSchool/Exercises.git
 
