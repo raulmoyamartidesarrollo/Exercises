@@ -9,19 +9,9 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 ## 📖 Ejercicios Disponibles
 
 ### 📝 HTML
-- **Ejercicio 1:** Crear una página básica con encabezados y párrafos.
-- **Ejercicio 2:** Diseñar una lista de tareas con tablas y formularios.
-- **Ejercicio Avanzado:** Página interactiva con imágenes y enlaces.
-
-### 🎨 CSS
-- **Ejercicio 1:** Aplicar estilos básicos a un sitio.
-- **Ejercicio 2:** Crear un layout con Grid y Flexbox.
-- **Ejercicio Avanzado:** Animaciones con transiciones y transformaciones.
-
-### 💻 JavaScript
-- **Ejercicio 1:** Introducción a variables y funciones.
-- **Ejercicio 2:** Validar un formulario.
-- **Ejercicio Avanzado:** Crear un juego interactivo.
+- **Web-básica:** Diseñar una lista de tareas con tablas y formularios. ⭐
+- **Recetas:** Crear una página básica con encabezados y párrafos. ⭐⭐
+- **Tienda:** Página interactiva con imágenes y enlaces. ⭐⭐⭐
 
 ---
 
