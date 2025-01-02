@@ -8,11 +8,11 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 
 ## 🎯 Dificultad
 
-⭐: Facil no debería ser un problema.
-⭐⭐: Medio-Facil podría surgir alguna duda.
-⭐⭐⭐: Medio-Dificil requerirá pensar en investigar debería representar un desafio.
-⭐⭐⭐⭐: Dificil debería costarte bastante e incluso puede que no lo termines.
-⭐⭐⭐⭐⭐: Extremo si encuentras un ejercicio con estas estrellas estas ante un reto que seguramente no seas capaz de resolver
+#### ⭐: Facil no debería ser un problema.
+#### ⭐⭐: Medio-Facil podría surgir alguna duda.
+#### ⭐⭐⭐: Medio-Dificil requerirá pensar en investigar debería representar un desafio.
+#### ⭐⭐⭐⭐: Dificil debería costarte bastante e incluso puede que no lo termines.
+#### ⭐⭐⭐⭐⭐: Extremo si encuentras un ejercicio con estas estrellas estas ante un reto que seguramente no seas capaz de resolver
 
 ## 📖 Ejercicios Disponibles
 
