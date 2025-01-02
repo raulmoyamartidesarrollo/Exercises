@@ -1,4 +1,4 @@
-# 📚 CodeUpSchool Exercises Repository
+# 📚 CodeUpSchool Exercises
 
 Bienvenido a **CodeUpSchool Exercises**, el repositorio oficial donde alojamos y organizamos todos los ejercicios y proyectos prácticos de nuestra comunidad. 🚀
 
