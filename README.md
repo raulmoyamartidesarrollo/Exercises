@@ -6,7 +6,7 @@ Bienvenido a **CodeUpSchool Exercises**, el repositorio oficial donde alojamos y
 
 El objetivo de este repositorio es proporcionar ejercicios bien estructurados para ayudarte a mejorar tus habilidades en programación y desarrollo web. Aquí encontrarás retos para todos los niveles, desde principiante hasta avanzado.
 
-## 🎯 Dificultad
+## ⚠️ Dificultad
 
 #### ⭐: Facil no debería ser un problema.
 #### ⭐⭐: Medio-Facil podría surgir alguna duda.
