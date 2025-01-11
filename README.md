@@ -21,11 +21,15 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 - **Recetas:** Crear una página básica con encabezados y párrafos. ⭐⭐
 - **Tienda:** Página interactiva con imágenes y enlaces. ⭐⭐
 
+### 📝 CSS
+- **Colores:** Cambiar el color de algunos elementos. ⭐
+- **TarjetaPerfil:** Diseñar un tarjeta de perfil. ⭐⭐⭐
+- **Blog:** Crear el layout básico de un blog ⭐⭐⭐⭐
+
 ### 📝 JAVASCRIPT
 - **ParImpar:** Determinar si un numero es par o impar. ⭐⭐
 - **Clasificador:** Analizar si la palabra tiene más de 5 caracteres y si comienza con una vocal. ⭐⭐⭐
 - **ContadorDePalabras:** Identificar la cantidad de palabras en un texto. ⭐⭐⭐
----
 
 ## 🚀 Cómo Empezar
 
