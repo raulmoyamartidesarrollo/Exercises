@@ -10,18 +10,18 @@ Vas a diseñar una tarjeta de perfil que contenga una imagen, un nombre, una bre
 ## Requisitos de Estilo
 Crea un archivo llamado styles.css y cumple con los siguientes requisitos:
 
-Estructura básica:
+### Estructura básica
 
 Centra la tarjeta en la pantalla usando flexbox.
 Aplica un ancho máximo de 300px a la tarjeta y agrega un relleno (padding) de 20px.
 
-Estilo de la tarjeta:
+### Estilo de la tarjeta
 
 Aplica un color de fondo suave (por ejemplo, #f9f9f9).
 Agrega un borde redondeado de 10px.
 Usa una sombra para dar profundidad a la tarjeta.
 
-Estilo de la imagen:
+### Estilo de la imagen
 
 Haz que la imagen tenga forma circular.
 Establece un tamaño fijo de 100px x 100px.
@@ -30,7 +30,7 @@ Estilo del texto:
 Cambia la fuente del nombre a una fuente sans-serif y hazlo de color azul.
 Aplica un color gris al texto de la descripción.
 
-Botones:
+### Botones
 
 Los botones deben tener bordes redondeados, sin borde visible.
 Cambia el color de fondo del botón "Seguir" a verde y el de "Mensaje" a azul.
@@ -50,13 +50,13 @@ Copia el siguiente código en un archivo llamado `index.html`:
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="tarjeta">
-    <img src="https://via.placeholder.com/150" alt="Foto de Perfil" class="foto">
-    <h2 class="nombre">Juan Pérez</h2>
-    <p class="descripcion">Desarrollador web enfocado en crear experiencias digitales únicas.</p>
-    <div class="acciones">
-      <button class="btn seguir">Seguir</button>
-      <button class="btn mensaje">Mensaje</button>
+  <div>
+    <img src="https://via.placeholder.com/150" alt="Foto de Perfil" />
+    <h2>Juan Pérez</h2>
+    <p>Desarrollador web enfocado en crear experiencias digitales únicas.</p>
+    <div>
+      <button>Seguir</button>
+      <button>Mensaje</button>
     </div>
   </div>
 </body>

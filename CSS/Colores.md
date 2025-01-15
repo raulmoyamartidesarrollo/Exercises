@@ -10,9 +10,9 @@ En este ejercicio, trabajarás con un archivo HTML y un archivo CSS para aplicar
 ## Requisitos de Estilo
 Crea un archivo llamado styles.css y sigue estos pasos:
 
-Cambia el color del texto del encabezado <h1> a azul.
-Aplica un color de fondo amarillo al párrafo <p>.
-Cambia el color del enlace <a> a verde y asegúrate de que se subraye cuando pases el mouse sobre él.
+Cambia el color del texto del encabezado a azul.
+Aplica un color de fondo amarillo al párrafo.
+Cambia el color del enlace a verde y asegúrate de que se subraye cuando pases el ratón sobre él.
 
 ## Archivo HTML
 
