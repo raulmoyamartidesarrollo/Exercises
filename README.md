@@ -30,6 +30,10 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 - **ParImpar:** Determinar si un numero es par o impar. ⭐⭐
 - **Clasificador:** Analizar si la palabra tiene más de 5 caracteres y si comienza con una vocal. ⭐⭐⭐
 - **ContadorDePalabras:** Identificar la cantidad de palabras en un texto. ⭐⭐⭐
+- **ParImparArray:** Determinar si un grupo de numeros es par o impar. ⭐⭐⭐
+- **TablasDeMultiplicar:** Crea tablas de multiplicar de forma dinámica ⭐⭐⭐⭐
+- **AdivinaElNumero:** Adivina el numero ⭐⭐
+- **Ahorros:** Crea un programa para llevar la contabilidad de un usuario ⭐⭐⭐
 
 ## 🚀 Cómo Empezar
 
