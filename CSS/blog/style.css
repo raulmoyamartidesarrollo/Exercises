@@ -1,0 +1,111 @@
+/* Reset general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo del header */
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  header h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+  }
+  
+  /* Estilo del menú de navegación */
+  nav {
+    background-color: #d3d3d3;
+    border-top: 5px solid #a8d5ba;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    color: #333;
+  }
+  
+  nav a:hover, nav a:focus {
+    background-color: white;
+    color: #333;
+    border-radius: 5px;
+  }
+  
+  /* Estilo del main */
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  article {
+    flex: 3;
+  }
+  
+  aside {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  aside h3 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+  }
+  
+  /* Estilo del aside con flexbox */
+  aside ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  aside ul li {
+    list-style: none;
+  }
+  
+  aside ul li a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  aside ul li a:hover, aside ul li a:focus {
+    color: #007b5e;
+  }
+  
+  /* Estilo de las cards de tecnología */
+  .tech-card {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+  }
+  
+  .tech-card h4 {
+    font-weight: bold;
+  }
+  
+  /* Estilo para los títulos en negrita */
+  h2, h3 {
+    font-weight: bold;
+  }
+  
+  /* Estilo de footer */
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  footer p {
+    font-family: Arial, sans-serif;
+  }
